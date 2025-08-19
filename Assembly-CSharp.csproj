@@ -52,6 +52,9 @@
     <Compile Include="Assets\enemyScript1.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\sprites\characters\README.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.55f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
       <Private>False</Private>
