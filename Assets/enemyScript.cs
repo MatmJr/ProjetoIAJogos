@@ -1,15 +1,22 @@
 using UnityEngine;
+using UnityEngine.AI;
 
 public class EnemyChase : MonoBehaviour
 {
     public Transform player;
-    public float speed = 3f;
+    public NavMeshAgent agent;
+
+    void Start()
+    {
+        agent = GetComponent<NavMeshAgent>();
+        agent.updateUpAxis = false;
+        agent.updateRotation = false; 
+    }
 
     void Update()
     {
-        if (player == null) return;
-
-        Vector2 direction = (player.position - transform.position).normalized;
-        transform.position += (Vector3)direction * speed * Time.deltaTime;
+        agent.SetDestination(player.position);
     }
+
+
 }
