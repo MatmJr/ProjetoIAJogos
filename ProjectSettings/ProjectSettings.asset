@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 63e4bd42f8adbcd40a55398e34b2b918
+  productGUID: b4852e538b0dffc4ab0271cb8f7bcd91
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: ProjetoIAJogos
+  productName: NovaIA
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -596,14 +596,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: ProjetoIAJogos
+  metroPackageName: NovaIA
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: ProjetoIAJogos
+  metroApplicationDescription: NovaIA
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -674,10 +674,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 8c865e80-6b70-4321-927b-75d30cf84132
+  cloudProjectId: aa9babd5-f388-4c1f-88b5-e1e8f06965c9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: ProjetoIAJogos
+  projectName: NovaIA
   organizationId: marcomialaret
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

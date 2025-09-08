@@ -47,9 +47,8 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.55f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\enemyScript.cs" />
-    <Compile Include="Assets\playerScript.cs" />
-    <Compile Include="Assets\enemyScript1.cs" />
+    <Compile Include="Assets\AgentScript.cs" />
+    <Compile Include="Assets\TargetScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1286,6 +1285,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="NavMeshPlusEditor.csproj" />
+    <ProjectReference Include="NavMeshPlus.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
   <ItemGroup>
