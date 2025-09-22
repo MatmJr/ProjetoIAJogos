@@ -1,5 +1,5 @@
 
-=== Tue Aug 12 16:50:59 2025
+=== Mon Sep  1 09:45:28 2025
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -42,7 +42,8 @@ The following packages were updated:
   com.unity.collab-proxy from version 2.6.0 to 2.8.2
   com.unity.ide.rider from version 3.0.31 to 3.0.36
   com.unity.ide.visualstudio from version 2.0.22 to 2.0.23
-  com.unity.inputsystem from version 1.11.2 to 1.14.1
+  com.unity.inputsystem from version 1.11.2 to 1.14.2
   com.unity.render-pipelines.universal from version 17.0.3 to 17.0.4
   com.unity.test-framework from version 1.4.5 to 1.5.1
+  com.unity.timeline from version 1.8.7 to 1.8.9
   com.unity.visualscripting from version 1.9.5 to 1.9.7
