@@ -48,6 +48,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.56f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AgentPatrol.cs" />
     <Compile Include="Assets\Scripts\AgentScript.cs" />
     <Compile Include="Assets\Scripts\AgentFSMScript.cs" />
     <Compile Include="Assets\Scripts\TargetScript.cs" />
